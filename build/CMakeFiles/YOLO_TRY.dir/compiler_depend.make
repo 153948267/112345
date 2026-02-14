@@ -422,18 +422,8 @@ CMakeFiles/YOLO_TRY.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/local/include/opencv4/opencv2/stitching/detail/camera.hpp \
   /usr/local/include/opencv4/opencv2/video.hpp \
   /usr/local/include/opencv4/opencv2/video/tracking.hpp \
-  /usr/local/include/opencv4/opencv2/video/background_segm.hpp \
-  /usr/include/c++/11/fstream \
-  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
-  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
-  /usr/include/c++/11/bits/fstream.tcc
+  /usr/local/include/opencv4/opencv2/video/background_segm.hpp
 
-
-/usr/include/c++/11/bits/fstream.tcc:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h:
 
 /usr/local/include/opencv4/opencv2/video/tracking.hpp:
 
@@ -538,8 +528,6 @@ CMakeFiles/YOLO_TRY.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/local/include/opencv4/opencv2/flann/nn_index.h:
 
 /usr/local/include/opencv4/opencv2/flann/params.h:
-
-/usr/include/c++/11/fstream:
 
 /usr/local/include/opencv4/opencv2/flann/matrix.h:
 
