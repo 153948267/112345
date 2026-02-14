@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/a/desktop/class_11/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/YOLO_TRY.dir/src/main.cpp.o -c /home/a/desktop/class_11/src/main.cpp",
+  "file": "/home/a/desktop/class_11/src/main.cpp"
+}
+]
